@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Timmarshall2/LABURL)
+  - [Active Directory Home Lab](https://github.com/Timmarshall2/ActiveDirectoryLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
