@@ -7,7 +7,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab (Coming Soon)](https://YTLink)
+- [Tutorial Active Directory Home Lab](https://youtu.be/TGrdSoCua1E)
 
 
 <h2> 🤳 Connect with me:</h2>
