@@ -1,5 +1,11 @@
 <h1>Hi, I'm Tim Marshall! </h1>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Cloud Projects</b>
+
+  - [Live Azure Security Operations Center / Honeynet](https://github.com/Timmarshall2/ActiveDirectoryLab)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Timmarshall2/ActiveDirectoryLab)
