@@ -4,7 +4,7 @@
 
 - <b>Cloud Projects</b>
 
-  - [Live Azure Security Operations Center / Honeynet](https://github.com/Timmarshall2/ActiveDirectoryLab)
+  - [Live Azure Security Operations Center / Honeynet](https://github.com/Timmarshall2/AzureCloud-SOC)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
